@@ -1,0 +1,162 @@
+[
+  {
+    "MPIONOM":"Tláhuac",
+    "LN":76262,
+    "SV":42505,
+    "NV":33754,
+    "PCT_ABSTENCION":44.26,
+    "PCT_PARTICIPACION":55.74,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Milpa Alta",
+    "LN":27537,
+    "SV":15385,
+    "NV":12152,
+    "PCT_ABSTENCION":44.13,
+    "PCT_PARTICIPACION":55.87,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Iztapalapa",
+    "LN":384118,
+    "SV":214664,
+    "NV":168796,
+    "PCT_ABSTENCION":43.94,
+    "PCT_PARTICIPACION":55.88,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Xochimilco",
+    "LN":89429,
+    "SV":50434,
+    "NV":38992,
+    "PCT_ABSTENCION":43.6,
+    "PCT_PARTICIPACION":56.4,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Cuajimalpa de Morelos",
+    "LN":40862,
+    "SV":23214,
+    "NV":17636,
+    "PCT_ABSTENCION":43.16,
+    "PCT_PARTICIPACION":56.81,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Cuauhtémoc",
+    "LN":105426,
+    "SV":61876,
+    "NV":43487,
+    "PCT_ABSTENCION":41.25,
+    "PCT_PARTICIPACION":58.69,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Gustavo A. Madero",
+    "LN":256806,
+    "SV":151569,
+    "NV":105192,
+    "PCT_ABSTENCION":40.96,
+    "PCT_PARTICIPACION":59.02,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Venustiano Carranza",
+    "LN":93144,
+    "SV":54826,
+    "NV":38120,
+    "PCT_ABSTENCION":40.93,
+    "PCT_PARTICIPACION":58.86,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"La Magdalena Contreras",
+    "LN":49492,
+    "SV":29467,
+    "NV":20004,
+    "PCT_ABSTENCION":40.42,
+    "PCT_PARTICIPACION":59.54,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Tlalpan",
+    "LN":136194,
+    "SV":81117,
+    "NV":55035,
+    "PCT_ABSTENCION":40.41,
+    "PCT_PARTICIPACION":59.56,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Álvaro Obregón",
+    "LN":146989,
+    "SV":87594,
+    "NV":59280,
+    "PCT_ABSTENCION":40.33,
+    "PCT_PARTICIPACION":59.59,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Iztacalco",
+    "LN":85090,
+    "SV":51829,
+    "NV":33251,
+    "PCT_ABSTENCION":39.08,
+    "PCT_PARTICIPACION":60.91,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Miguel Hidalgo",
+    "LN":68366,
+    "SV":42236,
+    "NV":25445,
+    "PCT_ABSTENCION":37.22,
+    "PCT_PARTICIPACION":61.78,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Azcapotzalco",
+    "LN":89228,
+    "SV":56031,
+    "NV":33177,
+    "PCT_ABSTENCION":37.18,
+    "PCT_PARTICIPACION":62.8,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Coyoacán",
+    "LN":130980,
+    "SV":83718,
+    "NV":47233,
+    "PCT_ABSTENCION":36.06,
+    "PCT_PARTICIPACION":63.92,
+    "RATIO_NO_VOTO":4,
+    "FRASE_IMPACTO":"4 de cada 10 jóvenes NO votan aquí"
+  },
+  {
+    "MPIONOM":"Benito Juárez",
+    "LN":64484,
+    "SV":43435,
+    "NV":21003,
+    "PCT_ABSTENCION":32.57,
+    "PCT_PARTICIPACION":67.36,
+    "RATIO_NO_VOTO":3,
+    "FRASE_IMPACTO":"3 de cada 10 jóvenes NO votan aquí"
+  }
+]

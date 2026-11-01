@@ -1,10 +1,9 @@
 {
   "expo": {
-    "name": "TripleP-INE",
-    "slug": "triplep-ine",
+    "name": "Votonicos",
+    "slug": "votonicos",
     "version": "1.0.0",
-
-    "scheme": "triplep-ine",
+    "scheme": "votonicos",
     "platforms": ["ios", "android"],
     "web": {
       "bundler": "metro",
@@ -19,24 +18,32 @@
           "image": "./assets/splash.png",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-font",
+      "expo-status-bar",
+      "expo-web-browser",
+      "expo-secure-store",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Usamos tu ubicación para identificar tu alcaldía y mostrar sus datos electorales."
+        }
+      ],
+      "expo-sharing"
     ],
     "experiments": {
       "typedRoutes": true,
-
       "tsconfigPaths": true
     },
-
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-
-    "userInterfaceStyle": "light",
-
+    "userInterfaceStyle": "automatic",
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.votonicos.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"

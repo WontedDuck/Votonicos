@@ -1,3 +1,33 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    /* Versión Clara: Paleta Morada INE ("Hackea la Participación" / Identidad Moderna) */
+    --color-background: #f7f5f9;
+    --color-primary: #3d2066;
+    --color-secondary: #7e57c2;
+    --color-surface: #ffffff;
+    --color-text: #211333;
+    --color-textinput: #211333;
+    --color-textbutton: #ffffff;
+    --color-muted: #6e6378;
+    --color-error: #b00020;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      /* Versión Oscura: Formato Tradicional INE (Tonos Arena / Beige y Gris Carbón) */
+      --color-background: #141210;
+      --color-primary: #c6a486;
+      --color-secondary: #9e836a;
+      --color-surface: #221f1c;
+      --color-text: #f4efea;
+      --color-textinput: #f4efea;
+      --color-textbutton: #141210;
+      --color-muted: #a39688;
+      --color-error: #cf6679;
+    }
+  }
+}
